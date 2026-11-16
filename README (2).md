@@ -71,7 +71,7 @@ Sales & Profit Analysis
 Interview Demonstration Dashboard
 
 👤 Author
-Manikya
+Chetan
 Aspiring Data Analyst
 Skills: Excel | Power BI | SQL | Data Cleaning | Data Visualization
 
